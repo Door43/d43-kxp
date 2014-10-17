@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kxp:home|Door43 (kxp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kxp|d43-kxp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kxp/archive/master.zip|d43-kxp.zip]]
+
+**Recent Changes**
+{{changes>ns = kxp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kxp|Ethnologue data]]
+
